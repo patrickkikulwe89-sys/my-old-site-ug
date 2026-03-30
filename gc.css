@@ -7,13 +7,6 @@ body {
     font-size: 18px;
     margin:0px;
 }
-/* This is what I got from the inline CSS i had initially used */
-
-h3 {
-    color: white; 
-    text-align: center; 
-    background-color: rgb(19, 209, 215);
-}
 #edit_all_minus_head_and_foot {
     margin-left:15px;
 }
